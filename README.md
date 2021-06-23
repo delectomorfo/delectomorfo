@@ -1,4 +1,7 @@
 # Manual del Usuario
+
+![Delectomorfo para Windows](delectowin.png)
+
 Copyright © Pablo García y Lucas Velásquez, 2002
 ## Índice
 ---
