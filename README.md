@@ -31,6 +31,8 @@ Podríamos decir que un Delectomorfo es una forma diferente de graficación de p
 
 ## 2. El Delectomorfo Para Windows
 
+![Delectomorfo para Windows](delectowin.gif)
+
 La implementación del Delectomorfo análogo en el PC, el Delectomorfo Para Windows, fue creada en 1999 por Pablo García y Lucas Velásquez. El programa fue desarrollado para realizar la repetitiva tarea de trazar las líneas en un Delectomorfo, además permite flexibilidad respecto al número de ranuras, que es una de las mayores limitaciones del análogo. El programa requiere que el usuario especifique el número de ranuras a usar como primero, luego el usuario dispone de varias opciones:
 
 ### Líneas Individuales
