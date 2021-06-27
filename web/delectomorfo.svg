@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="1000" height="1000" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect x="0" y="0" width="1000" height="1000"
+style="fill:#FFFFFF;fill-opacity:1;"/>
+<line class="line" x1="500" y1="0" x2="597.54516100806" y2="990.39264020162" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="597.54516100806" y1="990.39264020162" x2="308.65828381745" y2="38.060233744357" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="308.65828381745" y1="38.060233744357" x2="777.7851165098" y2="915.73480615127" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="777.7851165098" y1="915.73480615127" x2="146.44660940673" y2="146.44660940673" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="146.44660940673" y1="146.44660940673" x2="915.73480615127" y2="777.7851165098" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="915.73480615127" y1="777.7851165098" x2="38.060233744357" y2="308.65828381745" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="38.060233744357" y1="308.65828381745" x2="990.39264020162" y2="597.54516100806" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="990.39264020162" y1="597.54516100806" x2="0" y2="500" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="0" y1="500" x2="990.39264020162" y2="402.45483899194" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="990.39264020162" y1="402.45483899194" x2="38.060233744357" y2="691.34171618255" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="38.060233744357" y1="691.34171618255" x2="915.73480615127" y2="222.2148834902" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="915.73480615127" y1="222.2148834902" x2="146.44660940673" y2="853.55339059327" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="146.44660940673" y1="853.55339059327" x2="777.7851165098" y2="84.265193848727" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="777.7851165098" y1="84.265193848727" x2="308.65828381746" y2="961.93976625564" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="308.65828381746" y1="961.93976625564" x2="597.54516100806" y2="9.6073597983848" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="597.54516100806" y1="9.6073597983848" x2="500" y2="1000" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="500" y1="1000" x2="402.45483899194" y2="9.6073597983848" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="402.45483899194" y1="9.6073597983848" x2="691.34171618254" y2="961.93976625564" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="691.34171618254" y1="961.93976625564" x2="222.2148834902" y2="84.265193848727" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="222.2148834902" y1="84.265193848727" x2="853.55339059327" y2="853.55339059327" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="853.55339059327" y1="853.55339059327" x2="84.265193848727" y2="222.2148834902" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="84.265193848727" y1="222.2148834902" x2="961.93976625564" y2="691.34171618254" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="961.93976625564" y1="691.34171618254" x2="9.6073597983848" y2="402.45483899194" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="9.6073597983848" y1="402.45483899194" x2="1000" y2="500" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="1000" y1="500" x2="9.6073597983848" y2="597.54516100806" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="9.6073597983848" y1="597.54516100806" x2="961.93976625564" y2="308.65828381746" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="961.93976625564" y1="308.65828381746" x2="84.265193848727" y2="777.7851165098" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="84.265193848727" y1="777.7851165098" x2="853.55339059327" y2="146.44660940673" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="853.55339059327" y1="146.44660940673" x2="222.2148834902" y2="915.73480615127" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="222.2148834902" y1="915.73480615127" x2="691.34171618254" y2="38.060233744357" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="691.34171618254" y1="38.060233744357" x2="402.45483899194" y2="990.39264020162" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+<line class="line" x1="402.45483899194" y1="990.39264020162" x2="500" y2="0" shape-rendering="geometricPrecision" style="stroke:rgb(0,0,0); stroke-width:0.5; stroke-linecap:round;"/>
+</svg>
